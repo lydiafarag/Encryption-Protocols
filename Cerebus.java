@@ -1,4 +1,4 @@
-mport java.util.ArrayList;
+import java.util.ArrayList;
 
 public class Cerebus extends Protocol{
     private final int CEREBUS_INIT_VALUE= 32;
